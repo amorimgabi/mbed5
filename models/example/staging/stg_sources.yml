@@ -1,0 +1,6 @@
+version: 2
+sources:
+  - name: ecommerce_raw 
+    schema: ecommerce_raw 
+    tables:
+      - name: raw_customers 
